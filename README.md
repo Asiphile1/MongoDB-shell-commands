@@ -113,3 +113,10 @@ db.Facilitators.deleteOne({ Name: "John Doe" })
 db.Projects.drop()
 ```
 With these commands, you'll be able to create and manage the Codetribe database effectively.
+
+## This is an example of  how the server should look when started
+![sever](https://github.com/user-attachments/assets/849eb002-7c73-4ff0-9b3f-3283dd2d2615)
+
+## This is an example of shell started
+![shell](https://github.com/user-attachments/assets/adb43bb2-518e-4e5d-85ce-303868cb2f42)
+
